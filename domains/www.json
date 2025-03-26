@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "greyrat-dev",
+    "email": "admin@greyrat.dev"
+  },
+  "record": {
+    "CNAME": "greyrat.dev"
+  },
+  "proxied": true
+}

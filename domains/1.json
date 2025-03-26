@@ -1,0 +1,10 @@
+{
+  "description": "1.greyrat.dev",
+  "owner": {
+    "username": "DikaArdnt",
+    "email": "mail@dikaardnt.com"
+  },
+  "record": {
+    "A": ["18.133.72.105"]
+  }
+}

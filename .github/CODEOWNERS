@@ -1,0 +1,4 @@
+* @greyrat-dev/owners
+
+/domains/ @greyrat-dev/maintainers
+*.md @greyrat-dev/maintainers
