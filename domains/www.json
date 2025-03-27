@@ -5,6 +5,5 @@
   },
   "record": {
     "CNAME": "greyrat.dev"
-  },
-  "proxied": true
+  }
 }
