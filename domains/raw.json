@@ -1,0 +1,17 @@
+{
+   "description": "Visualization of raw.greyrat.dev",
+   "repo": "https://github.com/greyrat-dev/raw",
+   "owner": {
+     "username": "DikaArdnt",
+     "email": "mail@dikaardnt.com",
+     "url": "https://dikaardnt.com"
+   },
+   "record": {
+     "A": [
+       "185.199.108.153",
+       "185.199.109.153",
+       "185.199.110.153",
+       "185.199.111.153"
+     ]
+   }
+ }
