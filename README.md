@@ -18,6 +18,11 @@
 
 - [Fork](https://github.com/greyrat-dev/register/fork) this repository
 - Add a new file called `your-domain-name.json` in the `domains` folder to register `your-domain-name.greyrat.dev`
+- Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
+- After the pull request is merged, please allow up to 24 hours for the changes to propagate
+- Enjoy your new `.greyrat.dev` domain! Please consider leaving us a star ⭐️ to help support us!
+
+## Full Format Available
 ```json
 {
     "description": "Project Description",
@@ -45,11 +50,7 @@
 
     "proxied": false
 }
-
 ```
-- Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
-- After the pull request is merged, please allow up to 24 hours for the changes to propagate
-- Enjoy your new `.greyrat.dev` domain! Please consider leaving us a star ⭐️ to help support us!
 
 ### NS Records
 > **⚠️ Important:**  
